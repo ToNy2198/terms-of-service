@@ -1,0 +1,26 @@
+@media screen and (max-width: 860px) {
+	.navbar-elements-ul li{
+		display: block;
+		text-align: center;
+		
+	}
+	.navbar-elements-ul {
+		direction: rtl
+	}
+	.navbar-elements-ul li:hover {
+		border: none
+	}
+	.logo {
+		position: relative;
+		margin: 0 auto;
+		display: block
+	}
+	div.bars {
+		display: block
+	}
+}
+@media screen and (max-width: 860px) {
+	.title {
+		font-size: 30px;
+	}
+}
